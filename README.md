@@ -6,6 +6,8 @@ Run these commands:
 
 `sudo pacman -Rdd i3-gaps && yay -S i3-gaps-rounded-git`
 
+and then add a `border_radius x` line in `~/.i3/config`
+
 # Useful packages:
 - `polymc-cracked-git`
 - `breaktimer`
