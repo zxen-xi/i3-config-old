@@ -1,11 +1,12 @@
-# package-list
-My recommended list of packages for manjaro/i3.
+# Information, packages, and dotfiles!
+Everything I/you need to remember/know about my manjaro-i3 rice
 
-- polymc-cracked-git
-- breaktimer
-- lutris
-- discord
-- godot
-- hplip
-- imagewriter
-- spotify-adblock
+# Useful packages:
+- `polymc-cracked-git`
+- `breaktimer`
+- `lutris`
+- `discord`
+- `godot`
+- `hplip`
+- `imagewriter`
+- `spotify-adblock`
