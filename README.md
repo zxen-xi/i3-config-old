@@ -3,7 +3,7 @@ Everything I/you need to remember/know about my manjaro-i3 rice
 
 # Picom modifications
 in ~/.config/picom.conf
-1. **Firefox**: Find the line `"class_g = 'Firefox' && argb",` and replace it with
+1. **Firefox Shadow Removal**: Find the line `"class_g = 'Firefox' && argb",` and replace it with
 ```
 "class_g = 'firefox'",
 ```
