@@ -3,9 +3,13 @@ Everything I/you need to remember/know about my manjaro-i3 rice
 
 # Picom modifications
 in `~/.config/picom.conf`
-1. **Firefox Shadow Removal**: Find the line `"class_g = 'Firefox' && argb",` and replace it with
+1. **Shadow Exclusion**: (for firefox, polybar) Find the line `"class_g = 'Firefox' && argb",` and replace it with
 ```
 "class_g = 'firefox'",
+```
+and
+```
+"class_g = 'Polybar'",
 ```
 This is not useful for me, as I disabled all shadows with `shadow = false;`
 2. **Alacritty translucent/transparent**: Add this line in `picom.conf` under `opacity-rule`
