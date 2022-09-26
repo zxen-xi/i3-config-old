@@ -7,6 +7,7 @@ in `~/.config/picom.conf`
 ```
 "class_g = 'firefox'",
 ```
+This is not useful for me, as I disabled all shadows with `shadow = false;`
 2. **Alacritty translucent/transparent**: Add this line in `picom.conf` under `opacity-rule`
 ```
 "80:class_g ; 'Alacritty'"
