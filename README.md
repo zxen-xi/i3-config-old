@@ -7,7 +7,9 @@ https://wiki.archlinux.org/title/Picom#Conky
 # Getting rounded corners on a default install
 Run these commands:
 
-`sudo pacman -Rdd i3-gaps && yay -S i3-gaps-rounded-git`
+```
+sudo pacman -Rdd i3-gaps && yay -S i3-gaps-rounded-git
+```
 
 and then add a `border_radius x` line in `~/.i3/config`
 
