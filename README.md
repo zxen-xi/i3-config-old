@@ -7,6 +7,7 @@ in ~/.config/picom.conf
 ```
 "class_g = 'firefox'",
 ```
+2. **Alacritty translucent/transparent**:
 
 # Getting rounded corners on a default install
 Run these commands:
