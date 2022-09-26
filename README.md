@@ -1,8 +1,12 @@
 # Information, packages, and dotfiles!
 Everything I/you need to remember/know about my manjaro-i3 rice
 
-# Conky shadow removal
-https://wiki.archlinux.org/title/Picom#Conky
+# Picom modifications
+in ~/.config/picom.conf
+1. **Firefox**: Find the line `"class_g = 'Firefox' && argb",` and replace it with
+```
+"class_g = 'firefox'",
+```
 
 # Getting rounded corners on a default install
 Run these commands:
