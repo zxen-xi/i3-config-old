@@ -2,12 +2,16 @@
 Everything I/you need to remember/know about my manjaro-i3 rice
 
 # Picom modifications
-in ~/.config/picom.conf
+in `~/.config/picom.conf`
 1. **Firefox Shadow Removal**: Find the line `"class_g = 'Firefox' && argb",` and replace it with
 ```
 "class_g = 'firefox'",
 ```
-2. **Alacritty translucent/transparent**:
+2. **Alacritty translucent/transparent**: Add this line in `picom.conf` under `opacity-rule`
+```
+"80:class_g ; 'Alacritty'"
+```
+where 80 is the value of opacity out of 100.
 
 # Getting rounded corners on a default install
 Run these commands:
