@@ -1,6 +1,9 @@
 # Information, packages, and dotfiles!
 Everything I/you need to remember/know about my manjaro-i3 rice
 
+# Conky shadow removal
+https://wiki.archlinux.org/title/Picom#Conky
+
 # Getting rounded corners on a default install
 Run these commands:
 
