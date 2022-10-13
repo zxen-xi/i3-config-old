@@ -36,3 +36,4 @@ and then add a `border_radius x` line in `~/.i3/config`
 - `hplip`
 - `imagewriter`
 - `spotify-adblock`
+- `grub-customizer`
