@@ -1,6 +1,11 @@
 # Information, packages, and dotfiles!
 Everything I/you need to remember/know about my manjaro-i3 rice
 
+> What to do:
+> - use `eww` instead on `polybar`
+> - install `unity-hub`
+> - theme `rofi` (how?)
+
 # Getting rounded corners on a default install
 Run these commands:
 
