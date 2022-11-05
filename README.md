@@ -2,7 +2,8 @@
 Everything I/you need to remember/know about my manjaro-i3 rice
 
 > What to do:
-> - use `eww` instead on `polybar`
+> - `eww`
+> - `polybar`
 > - install `unity-hub`
 > - theme `rofi` (how?)
 
