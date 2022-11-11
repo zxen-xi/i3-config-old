@@ -2,10 +2,10 @@
 Everything I/you need to remember/know about my manjaro-i3 rice
 
 > What to do:
-> - `eww`
-> - `polybar`
-> - install `unity-hub`
-> - theme `rofi` (how?)
+> - destroy i3
+> - figure out hyprland
+> - check riverwm config waybar from stars
+> - awesome-wayland
 
 # Getting rounded corners on a default install
 Run these commands:
