@@ -1,3 +1,5 @@
+# This repo is ARCHIVED! I never did enjoy i3 much, and I've barely written any wiki. I've gone over to `hyprland`.
+
 # Information, packages, and dotfiles!
 Everything I/you need to remember/know about my manjaro-i3 rice
 
